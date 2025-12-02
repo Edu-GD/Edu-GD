@@ -32,6 +32,8 @@ Estas son las principales herramientas y lenguajes que manejo:
 
 Puedes ver mis contribuciones y lenguajes más utilizados a continuación.
 
+> **Nota:** Estos gráficos se actualizan automáticamente. Si las imágenes no se ven, asegúrate de que tu nombre de usuario (`Edu-GD`) es correcto en los enlaces.
+
 ### 📊 Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Edu-GD&show_icons=true&theme=vue)
 
