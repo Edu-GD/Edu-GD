@@ -37,4 +37,16 @@ Puedes ver mis contribuciones y lenguajes más utilizados a continuación.
 
 ### 🧑‍💻 Principales Lenguajes
 ![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-GD&layout=compact&theme=vue)
-```markdown
+
+---
+
+## 📧 Contacto
+
+Siempre estoy abierto a conectar con otros profesionales y escuchar sobre nuevas oportunidades.
+
+| Plataforma | Enlace |
+| :--- | :--- |
+| **LinkedIn** | [linkedin.com/in/edu-garcia-84a89822b](https://www.linkedin.com/in/edu-garcia-84a89822b/) |
+| **Correo Electrónico** | `egarciadevesa@gmail.com` |
+
+---
