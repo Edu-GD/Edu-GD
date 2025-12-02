@@ -35,10 +35,10 @@ Puedes ver mis contribuciones y lenguajes más utilizados a continuación.
 > **Nota:** Estos gráficos se actualizan automáticamente. Si las imágenes no se ven, asegúrate de que tu nombre de usuario (**`Edu-GD`**) es correcto en los enlaces.
 
 ### 📊 Estadísticas de GitHub
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=**Edu-GD**&show_icons=true&theme=radical&hide_border=true&repo=**Edu-GD**/Edu-GD)](https://github.com/Edu-GD)
+[![Estadísticas de GitHub](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Edu-GD&show_icons=true&theme=radical&hide_border=true)](https://github.com/Edu-GD)
 
 ### 🧑‍💻 Lenguajes principales
-[![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=**Edu-GD**&layout=compact&theme=radical&hide_border=true&repo=**Edu-GD**/Edu-GD)](https://github.com/Edu-GD)
+[![Lenguajes Top](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Edu-GD&layout=compact&theme=radical&hide_border=true)](https://github.com/Edu-GD)
 
 ---
 
